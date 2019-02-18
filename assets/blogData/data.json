@@ -1,0 +1,49 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-Quo ut eius magni ut adipisci perspiciatis non maxime.",
+      "body": "Animi praesentium ad ipsum adipisci cum ea rerum quasi. Harum nam aliquid asperiores. Nesciunt natus rerum et ut ipsum. Voluptas numquam et cumque et. Enim mollitia harum fugit dignissimos id dignissimos tempore magnam. Suscipit sit est reprehenderit consequatur perspiciatis id. Est ullam officiis quia quibusdam sed magni ut dolor. Odit provident non consequuntur est. Autem iure placeat corporis consequatur aperiam ea. Et et officia velit sint aliquid. Harum labore aut recusandae quo. Laborum voluptatem eos aperiam esse illum sit magni. Consequatur ut praesentium velit praesentium aut aut ut tempora. Aperiam quo assumenda itaque iusto nihil sunt non. Occaecati id laudantium placeat nobis. Veritatis reiciendis quaerat natus qui in. Fugit voluptate quaerat quibusdam. Dignissimos perspiciatis dolores sint autem blanditiis saepe ut et. Perspiciatis facilis ut omnis tempore eum rem omnis. Molestiae dolorem sit magnam quo error dolores. Non sint perferendis laboriosam hic. Sed molestiae ipsum ullam facere porro. Dolor adipisci reiciendis et optio ullam quis qui ut. Voluptatem voluptate at quia nihil eligendi saepe. Ratione accusamus tempora non. Sunt qui commodi provident in quo. Qui nostrum aut saepe vel.",
+      "author": "Prof. General Huel IV"
+    },
+
+    {
+      "id": 2,
+      "title": "Similique ea eum odit aspernatur quibusdam atque.",
+      "body": "Quae ratione error dicta pariatur sit molestiae. Eos quo libero sed dolor in modi inventore quo. Et nam dolorem libero perferendis. Et nisi veritatis quos vel facilis consequatur doloremque. Eius qui...",
+      "author":"Bella Kuhn V"
+    },
+
+    {
+      "id": 3,
+      "title": "Culpa odio hic est quod dolorum rerum.",
+      "body": "Perspiciatis nesciunt nesciunt et maiores porro sunt. Provident accusantium molestiae quis dolorum iste soluta illo. Deserunt eveniet maiores at quidem. Delectus aut aliquam quo et id. Doloribus ea es...",
+      "author": " Stone Hirthe"
+    }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment 1", "postId": 1 },
+    { "id": 2, "body": "some comment 2", "postId": 1 }
+  ],
+
+  "categories": [
+    { "id": 1, "name": "some comment 1","postId": 1 },
+    { "id": 2, "name": "some comment 2","postId": 1 }
+  ],
+  "users": [
+    {
+      "name": "salam alfaleet",
+      "email": "salam.alfaleet@gmail.com",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "roles": "admin"
+    },
+    {
+      "name": "salam samy",
+      "email": "salam.samy@gmail.com",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "roles": " "
+    }
+  ]
+}
