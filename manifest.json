@@ -1,6 +1,6 @@
 {
-  "name": "coffee",
-  "short_name": "cf",
+  "name": "Blog",
+  "short_name": "Blog",
   "icons": [
       {
           "src": "assets/icons/android-chrome-36x36.png",
