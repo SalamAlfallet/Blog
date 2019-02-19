@@ -1,6 +1,7 @@
 {
   "name": "Blog",
   "short_name": "Blog",
+  "start_url": "https://salamalfallet.github.io/Blog/home",
   "icons": [
       {
           "src": "assets/icons/android-chrome-36x36.png",
