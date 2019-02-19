@@ -1,7 +1,7 @@
 {
   "name": "Blog",
   "short_name": "Blog",
-  "start_url": "posts",
+  "start_url": "/Blog/post/",
   "icons": [
       {
           "src": "assets/icons/android-chrome-36x36.png",
